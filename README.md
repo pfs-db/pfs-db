@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my public database!
+
+Here you can find some old stuff which I did in my university, amateur projects to learn a new skill, journal about learning and much more.
+
+### How to reach me:
+
+<!-- TODO add icons with https://github.com/devicons/devicon -->
+linkedin: https://www.linkedin.com/in/pablo-freitas-santos-86ba73170/
+
+Mail: pablofreitas.fn@gmail.com
+
+PGP Key: [PGP Public Key](https://keys.openpgp.org/search?q=pablofreitas.fn%40gmail.com)

@@ -18,6 +18,12 @@ Welcome to my public database!
 
 Here you can find some old stuff which I did in my university, amateur projects to learn a new skill, journal about learning and much more.
 
+### Directions in this repository:
+
+#### Learning Rust
+
+In [this](rust-repo)repository I write about my learning path in the programming language. There you will be able to find sample codes, learning journals and content references. Feel free to share or support with questions or sugestions.
+ 
 ### How to reach me:
 
 <!-- TODO add icons with https://github.com/devicons/devicon -->

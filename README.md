@@ -22,7 +22,7 @@ Here you can find some old stuff which I did in my university, amateur projects 
 
 #### Learning Rust
 
-<!--<img src="https://raw.github.com/ADD RUST ICON">-->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="drawing" width="50">
 
 In [this](https://github.com/pfs-db/rust2learn) repository I write about my learning path in the programming language. There you will be able to find sample codes, learning journals and content references. Feel free to share or support with questions or sugestions.
  

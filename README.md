@@ -22,7 +22,7 @@ Here you can find some old stuff which I did in my university, amateur projects 
 
 #### Learning Rust
 
-In [this](rust-repo)repository I write about my learning path in the programming language. There you will be able to find sample codes, learning journals and content references. Feel free to share or support with questions or sugestions.
+In [this](https://github.com/pfs-db/rust2learn) repository I write about my learning path in the programming language. There you will be able to find sample codes, learning journals and content references. Feel free to share or support with questions or sugestions.
  
 ### How to reach me:
 
